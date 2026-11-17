@@ -18,24 +18,22 @@ This is a hands-on way to build both your coding and collaboration skills!
 
 ## Step 1: Fork the Repository
 
-1. Go to the repository: `https://github.com/a9irudhh/pattern-printing`
+1. Go to the repository: `https://github.com/aviraltrip/pattern-printing-stuff`
 2. Click the **Fork** button in the top-right corner to create a copy of the repository under your GitHub account.
 3. Clone your forked repository to your local machine:
    ```bash
-   git clone https://github.com/<your-username>/pattern-printing.git
-   cd pattern-printing
+   git clone https://github.com/<your-username>/pattern-printing-stuff.git
+   cd pattern-printing-stuff
    ```
 4. Add the original repository as an upstream remote (to sync updates later):
    ```bash
-   git remote add upstream https://github.com/a9irudhh/pattern-printing.git
+   git remote add upstream https://github.com/aviraltrip/pattern-printing-stuff.git
    ```
 
 ## Step 2: Create Your Directory
 
 1. Create your own directory at the repository root named with your GitHub username (or your name).
    - Example: `your-name/`
-
-## Step 3: Add Your Pattern Solutions
 
 ## Step 3: Add Your Pattern Solutions
 
@@ -87,18 +85,16 @@ This is a hands-on way to build both your coding and collaboration skills!
 
 ## Step 7: Open a Pull Request
 
-## Step 7: Open a Pull Request
-
-1. Go to your forked repository on GitHub: `https://github.com/<your-username>/pattern-printing`
+1. Go to your forked repository on GitHub: `https://github.com/<your-username>/pattern-printing-stuff`
 2. You'll see a prompt to **Compare & pull request** for your recently pushed branch. Click it.
-3. Ensure the base repository is `a9irudhh/pattern-printing` and base branch is `main`.
+3. Ensure the base repository is `aviraltrip/pattern-printing-stuff` and base branch is `main`.
 4. Set a clear PR title, e.g., `Add pattern solutions — <your-name>`.
 5. In the PR description, list which pattern numbers you implemented and any notes (optional).
 6. Click **Create pull request**.
 
 ## Step 8: Review and Merge Process
 
-   - **First PR**: The repository owner (`a9irudhh`) will review and merge the first Pull Request.
+   - **First PR**: The repository owner (`aviraltrip`) will review and merge the first Pull Request.
    - **Subsequent PRs**: After your PR is merged, **you become responsible** for reviewing and merging the next open PR in the queue.
    - If you receive review comments on your PR, please respond and push fixes to the same branch.
    - This creates a chain of responsibility where each merged contributor helps the next person.

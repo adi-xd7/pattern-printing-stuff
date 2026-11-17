@@ -1,3 +1,9 @@
+# Pattern Printing Problems
+
+> 💡 **For setup, workflow, and assignment instructions, see [instruction.md](instruction.md).**
+
+---
+
 ### ⭐ **BASIC LEVEL (1–5)**
 
 #### 1. Right-Angled Triangle of Stars
